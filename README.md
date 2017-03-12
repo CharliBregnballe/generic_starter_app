@@ -1,28 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just an empty app, where the following things are setup already:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+* rspec
+* capybara
+* FactoryGirl (and faker)
+* Bootstrap
+* Devise
 
 
 Example of Faker and FactoryGirl:
